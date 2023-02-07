@@ -6,4 +6,4 @@
 
 - These are only the files that I created and worked on, those that were provided in the module to help me get started are not included.
 
-- Lines with `\\REDACTED` had code specific to communicating with Sony's PS4 Devkit. In compliance with Northumbria University's legal agreement with Sony, these lines **had** to be removed. As such, all files are fully expected to ***NOT*** run whatsoever.
+- Lines with `\\REDACTED` had code specific to communicating with Sony's PS4 Devkit. In compliance with Northumbria University's legal agreement with Sony, these lines **had** to be removed.
