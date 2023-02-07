@@ -4,4 +4,4 @@
 
 ### TempestTutors video demo: https://www.youtube.com/watch?v=cQ2N0LS1kl4
 
-- The '***app/src/main***' folder contains the main files used to make the app run and includes the 'res' folder which contains the necessary resources needed to define the layout and design of the app. **\*Essentially, everything in the aforementioned directory can be used to showcase this project\***.
+- This directory contains 34 files in total: 18 Java files in the 'Main' folder and 16 XML files in the 'Layout_Resources'
