@@ -1,6 +1,6 @@
 # 3D Graphics Programming Project Files
 
-### --- This assignment was developed in C++ on Visual Studio and a PS4 Devkit ---
+### --- This project was developed in C++ on Visual Studio and a PS4 Devkit ---
 
 - Contains 12 files of code in total: 1 C++ Source File (.cpp) and 11 Header Files (.h).
 
