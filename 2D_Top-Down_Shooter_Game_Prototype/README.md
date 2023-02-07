@@ -4,4 +4,4 @@
 
 - This prototype 2D Top-down Shooter game was created as part of my third year dissertation project.
 
-- This folder contains 18 C# Source Code files (.cs) in total: 6 in current folder and 12 in the '**Flocking_Code**'
+- This directory contains 18 C# Source Code files (.cs) in total: 6 in current folder and 12 in the '**Flocking_Code**'
