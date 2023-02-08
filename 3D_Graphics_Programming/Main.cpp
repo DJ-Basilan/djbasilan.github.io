@@ -25,7 +25,7 @@ PlayStation(R)4 Programmer Tool Runtime Library Release 04.008.061
 #include "ptAssetManager.h"		// Asset Manager Class
 #include "ptLight.h"			// Lighting Class
 #include "ptAssetType.h"		// Holds all Asset Enums
-#include "ptHUDTextItem.h"		
+#include "ptHUDTextItem.h"		// HUD Text Items
 
 using namespace sce;
 using namespace sce::Gnmx;
