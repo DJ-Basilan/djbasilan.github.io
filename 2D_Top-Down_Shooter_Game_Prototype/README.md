@@ -8,4 +8,4 @@
 
 - A presentation explaining the implementation of the game's core features can be found [here](https://docs.google.com/presentation/d/19qObPM0a-Fz0wDs4OQjeObniHGG7WCBT/edit?usp=share_link&ouid=114303226649375363899&rtpof=true&sd=true).
 
-- The dissertation itself can be found [here](https://docs.google.com/document/d/1dAHLVBrqmaT6ZnvSZvEQNTTlgAKVeKID/edit?usp=sharing&ouid=114303226649375363899&rtpof=true&sd=true)
+- My dissertation on this project can be found [here](https://docs.google.com/document/d/1dAHLVBrqmaT6ZnvSZvEQNTTlgAKVeKID/edit?usp=sharing&ouid=114303226649375363899&rtpof=true&sd=true).
